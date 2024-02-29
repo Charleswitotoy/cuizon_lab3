@@ -1,0 +1,46 @@
+.container1{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.div1{
+    width: 150px;
+    padding: 50px;
+    margin: 20px;
+    border-top: solid red;
+    border-bottom: solid blue;
+    border-left-style: ridge;
+    border-right-style: double;
+}
+.div2{
+    width: 150px;
+    padding: 50px;
+    margin: 20px;
+    border-top: solid red;
+    border-bottom: solid blue;
+    border-left-style: ridge;
+    border-right-style: double;
+}
+.div3{
+    width: 150px;
+    padding: 50px;
+    margin: 20px;
+    border-top: solid red;
+    border-bottom: solid blue;
+    border-left-style: ridge;
+    border-right-style: double;
+}
+.div4{
+    width: 150px;
+    padding: 50px;
+    margin: 20px;
+    border-top: solid red;
+    border-bottom: solid blue;
+    border-left-style: ridge;
+    border-right-style: double;
+}
+
+ul li{
+    list-style: none;
+}
